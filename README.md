@@ -4,7 +4,7 @@
 
 ## 区块链行业相关项目
 
-以下产品 覆盖 PC Web APP，Hybrid APP，Native APP，Destktop APP 等多平台产品
+以下产品 覆盖 PC Web APP / H5 Web APP / Hybrid APP / Native APP / Destktop APP 等多平台产品
 
 ### PC版 去中心化交易所
 
