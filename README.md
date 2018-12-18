@@ -24,7 +24,7 @@
 - 产品创新
   - 不托管和触碰用户的私钥，绝对的安全性
   - 支持通过第三方APP钱包扫码交易：扫码登录，扫码下单，扫码授权等等，极大的降低了交易门槛，简化了交易流程
-	- 支持多个第三方钱包进行交易：imToken, MetaMask, Ledger, UP Wallet
+  - 支持多个第三方钱包进行交易：imToken, MetaMask, Ledger, UP Wallet
 
 ### Hybrid版 去中心化交易所
 
