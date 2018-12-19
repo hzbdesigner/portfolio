@@ -50,7 +50,7 @@
 ### PC版 网页数字货币钱包
 
 - 产品简介：路印最早期的网页钱包（含交易）
-- 在线地址：[https://loopr.loopring.io](https://loor.loopring.io)
+- 在线地址：[https://loopr.loopring.io](https://loopr.loopring.io)
 - 开源地址：[https://github.com/Loopring/loopr](https://github.com/Loopring/loopr)
 - 代码献率：最高贡献，670次提交，占比57%。[查看 Github Contributors](https://github.com/Loopring/loopr/graphs/contributors)
 - 贡献内容：
