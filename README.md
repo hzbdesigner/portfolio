@@ -1,9 +1,7 @@
 
-# 技术开发
+# 技术开发项目简介
 
-## 一、区块链 行业相关项目
-
-### 去中心化交易所 前端解决方案
+## 区块链 去中心化交易所生态 前端解决方案
 
 - PC 去中心化交易所
 - H5 去中心化交易所
@@ -13,7 +11,7 @@
 - Native 钱包
 - JS SDK
 
-### PC版 去中心化交易所
+#### PC版 去中心化交易所
 
 - 在线体验：[https://circulr.loopring.io](https://circulr.loopring.io)
 - 项目代码：[https://github.com/hzbdesigner/updex](https://github.com/hzbdesigner/updex) （暂未开源）
@@ -31,7 +29,7 @@
   - 支持通过第三方APP钱包扫码交易：扫码登录，扫码下单，扫码授权等等，极大的降低了交易门槛，简化了交易流程
   - 支持多个第三方钱包进行交易：imToken, MetaMask, Ledger, UP Wallet
 
-### Hybrid版 去中心化交易所
+#### Hybrid版 去中心化交易所
 
 - 产品简介：可嵌入第三方APP的去中心化交易所
 - 在线体验：[https://blogs.loopring.org/loopring-imtokendex/](https://blogs.loopring.org/loopring-imtokendex/) （体验教程 ）
@@ -45,23 +43,23 @@
 	- 扫码下单演示视频[ Scan For Place Order.mp4](http://phe22sql2.bkt.clouddn.com/scan_for_place_order.mp4)
 	- 在线体验指引[https://blogs.loopring.org/loopring-imtokendex/](https://blogs.loopring.org/loopring-imtokendex/)
 
-### Native版 去中心化交易所
+#### Native版 去中心化交易所
 
 - iOS / Android ( 基于 React Native，个人正在开发实现中 )
 - Mac / Windows ( 基于 Electron，个人正在开发实现中 )
 
-### PC版 网页数字货币钱包
+#### Native版 数字货币钱包 （ iOS & Android ）
+
+- 在线体验：[https://upwallet.io](https://circulr.loopring.io)
+- 贡献内容：内嵌 Hybrid DEX 开发 及 用户体验设计相关（产品设计，交互设计）
+
+#### PC版 网页数字货币钱包
 
 - 产品简介：路印最早期的网页钱包（含交易）
 - 在线地址：[https://loopr.loopring.io](https://loopr.loopring.io)
 - 开源地址：[https://github.com/Loopring/loopr](https://github.com/Loopring/loopr)
 - 代码献率：最高贡献，670次提交，占比57%。[查看 Github Contributors](https://github.com/Loopring/loopr/graphs/contributors)
 - 贡献内容：前端架构，核心功能实现，通用组件封装，通用服务封装，UI页面构建实现
-
-### Native版 数字货币钱包 （ iOS & Android ）
-
-- 在线体验：[https://upwallet.io](https://circulr.loopring.io)
-- 贡献内容：用户体验设计（产品设计，交互设计）
 
 
 ## 二、内容 行业相关项目
@@ -76,7 +74,6 @@
 - 活动票务系统（已下线）
 - 在线视频系统（已下线）
 
-注：本人负责上述所有产品的 产品和开发（前后端）等主要工作
 
 ## 三、电商 行业相关项目
 
