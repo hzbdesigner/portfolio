@@ -1,19 +1,24 @@
 
-
 # 技术开发
 
 ## 一、区块链 行业相关项目
 
-以下产品 覆盖 PC Web APP / H5 Web APP / Hybrid APP / Native APP / Destktop APP 等多平台产品
+### 去中心化交易所 前端解决方案
+
+- PC 去中心化交易所
+- H5 去中心化交易所
+- Hybrid 去中心化交易所
+- Native 去中心化交易所
+- PC 钱包
+- Native 钱包
+- JS SDK
 
 ### PC版 去中心化交易所
 
 - 在线体验：[https://circulr.loopring.io](https://circulr.loopring.io)
 - 项目代码：[https://github.com/hzbdesigner/updex](https://github.com/hzbdesigner/updex) （暂未开源）
 - 代码贡献：最高贡献，729次提交，占比56%  [查看 Github Contributors 截图](http://assets.suligefw.gov.cn/updex-contributors.png)
-- 贡献内容：
-	- 开发贡献：前端架构，核心功能实现，通用组件封装，通用服务封装，UI页面构建实现
-	- 产品贡献：产品设计，交互设计，UI设计
+- 贡献内容：前端架构，核心功能实现，通用组件封装，通用服务封装，UI页面构建实现
 - 技术特点
 	- 支持Socket的实时信息推送和用户交互反馈
 	- 支持K线图趋势图等实时Charts
@@ -32,9 +37,7 @@
 - 在线体验：[https://blogs.loopring.org/loopring-imtokendex/](https://blogs.loopring.org/loopring-imtokendex/) （体验教程 ）
 - 开源地址：[https://github.com/Loopring/h5dex](https://github.com/Loopring/h5dex)
 - 代码贡献：最高贡献，227次提交，占比48% [查看 Github Contributors](https://github.com/Loopring/h5dex/graphs/contributors)
-- 贡献内容：
-  - 开发贡献：前端架构，核心功能实现，通用组件封装，通用服务封装，UI页面构建实现
-  - 产品贡献：产品设计，交互设计，UI设计
+- 贡献内容：前端架构，核心功能实现，通用组件封装，通用服务封装，UI页面构建实现
 - 技术特点：同上
 - 产品创新
 	- DEX-Wallet实时联动的扫码交易流程，让用户的数字货币交易体验正在接近现实生活中支付宝和微信支付一样的交易体验。
@@ -53,16 +56,12 @@
 - 在线地址：[https://loopr.loopring.io](https://loopr.loopring.io)
 - 开源地址：[https://github.com/Loopring/loopr](https://github.com/Loopring/loopr)
 - 代码献率：最高贡献，670次提交，占比57%。[查看 Github Contributors](https://github.com/Loopring/loopr/graphs/contributors)
-- 贡献内容：
-	- 开发贡献：前端架构，核心功能实现，通用组件封装，通用服务封装，UI页面构建实现
-	- 产品贡献：产品设计，交互设计，UI设计
-
+- 贡献内容：前端架构，核心功能实现，通用组件封装，通用服务封装，UI页面构建实现
 
 ### Native版 数字货币钱包 （ iOS & Android ）
 
 - 在线体验：[https://upwallet.io](https://circulr.loopring.io)
-- 贡献内容
-	- 产品贡献：产品设计，交互设计，部分UI设计
+- 贡献内容：用户体验设计（产品设计，交互设计）
 
 
 ## 二、内容 行业相关项目
@@ -77,8 +76,7 @@
 - 活动票务系统（已下线）
 - 在线视频系统（已下线）
 
-注：本人负责上述所有产品的 产品，设计，和开发（前后端）等所有工作
-
+注：本人负责上述所有产品的 产品和开发（前后端）等主要工作
 
 ## 三、电商 行业相关项目
 
@@ -87,8 +85,6 @@
 - 珠宝在线竞拍系统（已下线）
 - 珠宝1元夺宝活动系统（已下线）
 	- [axtrue原型](https://yhw0y4.axshare.com/)
-
-
 
 
 
